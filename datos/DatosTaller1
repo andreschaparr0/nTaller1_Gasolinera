@@ -1,0 +1,13 @@
+tipo:diesel:15000:10.0
+tipo:tipo4:13750:400.0
+tipo:tipo2:20000:20000.0
+tipo:tipo3:17500:40.0
+surtidor:Cristian:diesel:0.0:tipo4:0.0:tipo2:0.0:tipo3:0.0
+surtidor:Simon:diesel:0.0:tipo4:0.0:tipo2:0.0:tipo3:0.0
+surtidor:Carlos:diesel:0.0:tipo4:0.0:tipo2:0.0:tipo3:0.0
+surtidor:Cristian:diesel:0.0:tipo4:0.0:tipo2:0.0:tipo3:0.0
+empleado:Andres:0
+empleado:Simon:0
+empleado:Cristian:0
+empleado:Juan:0
+empleado:Carlos:0
